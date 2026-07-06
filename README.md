@@ -18,3 +18,6 @@
 ## 🛠 Tech Stack
 
 Python | SQL | Pandas | NumPy | Scikit-Learn | TensorFlow
+## Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,tensorflow,pytorch,git,github,vscode,docker,linux)](https://skillicons.dev)
