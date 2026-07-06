@@ -14,8 +14,6 @@
 - 🚀 Looking for ML & Data Analyst internships
 
 ---
+## 🛠 Tech Stack
 
-
-## Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=python,js,cpp,docker,fastapi,mysql,pytorch,tensorflo)](https://skillicons.dev)
+Python | MySQL | C++ | JS | FastAPI | Docker | TensorFlow | pytorch | Matlab
