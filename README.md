@@ -17,3 +17,5 @@
 ## 🛠 Tech Stack
 
 Python | MySQL | C++ | JS | FastAPI | Docker | TensorFlow | pytorch | Matlab
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Asthaasu&layout=compact&theme=tokyonight)
